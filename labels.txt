@@ -1,0 +1,10 @@
+0 okay
+1 peace
+2 thumsup
+3 thumsdown
+4 callme
+5 stop
+6 rock
+7 livelong
+8 fist
+9 gun
